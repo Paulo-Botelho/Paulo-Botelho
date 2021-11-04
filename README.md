@@ -28,7 +28,7 @@
 <img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" width="25px">&nbsp;***Outras informações***
 
 ✔ Aspirante a programador <br>
-✔ Membro da equipe EDROM da Universidade Federal de Uberlandia<br>
+✔ Membro trainee da equipe EDROM da Universidade Federal de Uberlandia<br>
 
 
 
