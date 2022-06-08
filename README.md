@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center"> Olá, Eu sou o Paulo Botelho<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="10px"></h1>
+<h1 align="center"> Olá, Eu sou o Paulo Botelho<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 <h3 align="center">Estudante de Engenharia Mecatrônica</h3>
 <h4 align="center">mechatronics engineering's student</h4>
 <p align="center">
