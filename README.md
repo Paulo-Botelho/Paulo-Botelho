@@ -25,7 +25,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Botelho&label=Profile%20views&color=green&style=flat" alt="Paulo-Botelho" /> </p>
 <img align="right" width=30px alt="penguin" src="https://media4.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47j811vw165yzdxk3kuic6glczm59iesd1ibg7tnvi&rid=giphy.gif&ct=s" />
 
-<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" width="25px">&nbsp;***Outras informações***
+<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="25px">&nbsp;***Outras informações***
 
 ✔ Aspirante a programador <br>
 ✔ Membro trainee da equipe EDROM da Universidade Federal de Uberlandia<br>
@@ -35,7 +35,7 @@
 
  
 
-<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" width="25px">&nbsp;***Linguagens e Ferramentas***
+<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="25px">&nbsp;***Linguagens e Ferramentas***
 <p align="left">
   
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
@@ -49,9 +49,9 @@
 
   <hr>
   <p align="center">
- <img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>STATUS do github</b></i><img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="30px" alt="GitHub-Status"/>&nbsp;<i><b>STATUS do github</b></i><img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Botelho&show_icons=true&locale=en&layout=compact" alt="Paulo-Botelho" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo-Botelho&show_icons=true&locale=en" alt="Paulo-Botelho" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo-Botelho&show_icons=true&locale=en" alt="Paulo-Botelho" height="410" /></p>
 
 <hr>
