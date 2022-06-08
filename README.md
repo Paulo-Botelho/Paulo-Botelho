@@ -52,6 +52,6 @@
  <img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="30px" alt="GitHub-Status"/>&nbsp;<i><b>STATUS do github</b></i><img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Botelho&show_icons=true&locale=en&layout=compact" alt="Paulo-Botelho" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo-Botelho&show_icons=true&locale=en" alt="Paulo-Botelho" height="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo-Botelho&show_icons=true&locale=en" alt="Paulo-Botelho" width="410" /></p>
 
 <hr>
