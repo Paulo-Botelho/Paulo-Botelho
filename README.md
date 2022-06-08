@@ -23,7 +23,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Botelho&label=Profile%20views&color=green&style=flat" alt="Paulo-Botelho" /> </p>
-<img align="right" width=300px alt="penguin" src="https://media4.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47j811vw165yzdxk3kuic6glczm59iesd1ibg7tnvi&rid=giphy.gif&ct=s" />
+<img align="right" width=30px alt="penguin" src="https://media4.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47j811vw165yzdxk3kuic6glczm59iesd1ibg7tnvi&rid=giphy.gif&ct=s" />
 
 <img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" width="25px">&nbsp;***Outras informações***
 
