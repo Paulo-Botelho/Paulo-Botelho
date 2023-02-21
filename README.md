@@ -19,7 +19,7 @@
     <b>e se superar</b> <img src="https://media3.giphy.com/media/gjTX5cigW0MI9XoDdv/giphy.gif?cid=ecf05e47bmckjgq8tfzl7dyol86onsoi5xgzcf6pzqmnwbt9&rid=giphy.gif&ct=s" height="30px">&nbsp.
   </em> 
   <br>
-  <img src="https://media2.giphy.com/media/Kd5XdzdEhNqhYWe14S/giphy.gif?cid=ecf05e47slbv9u9uqh7effth54udgv4m7j3zbx3l8vvfcw5q&rid=giphy.gif&ct=s" width="50" /> <b><i>sempre buscanado forças para aprender mais</i></b> <img src="https://media0.giphy.com/media/4QZK21zlzVIyc/giphy.gif?cid=ecf05e476fl96nd8ic2yneyvn14kn0455rip1dr6jxcmrdaj&rid=giphy.gif&ct=s" width="50" />
+  <img src="https://media2.giphy.com/media/Kd5XdzdEhNqhYWe14S/giphy.gif?cid=ecf05e47slbv9u9uqh7effth54udgv4m7j3zbx3l8vvfcw5q&rid=giphy.gif&ct=s" width="30" /> <b><i>sempre buscanado forças para aprender mais</i></b> <img src="https://media0.giphy.com/media/4QZK21zlzVIyc/giphy.gif?cid=ecf05e476fl96nd8ic2yneyvn14kn0455rip1dr6jxcmrdaj&rid=giphy.gif&ct=s" width="30" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Botelho&label=Profile%20views&color=green&style=flat" alt="Paulo-Botelho" /> </p>
@@ -49,7 +49,7 @@
 
   <hr>
   <p align="center">
- <img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="30px" alt="GitHub-Status"/>&nbsp;<i><b>STATUS do github</b></i><img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="30px" alt="GitHub-Status"/></p>
+ <img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="13px" alt="GitHub-Status"/>&nbsp;<i><b>STATUS do github</b></i><img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="13px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Botelho&show_icons=true&locale=en&layout=compact" alt="Paulo-Botelho" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo-Botelho&show_icons=true&locale=en" alt="Paulo-Botelho" width="410" /></p>
