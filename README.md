@@ -23,9 +23,9 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Botelho&label=Profile%20views&color=green&style=flat" alt="Paulo-Botelho" /> </p>
-<img align="right" height="250px" alt="penguin" src="https://media4.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47j811vw165yzdxk3kuic6glczm59iesd1ibg7tnvi&rid=giphy.gif&ct=s" />
+<img align="right" height="200px" alt="penguin" src="https://media4.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47j811vw165yzdxk3kuic6glczm59iesd1ibg7tnvi&rid=giphy.gif&ct=s" />
 
-<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="20px">&nbsp;***Outras informações***
+<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="13px">&nbsp;***Outras informações***
 
 ✔ Aspirante a programador <br>
 ✔ Diretor da área de Visão da equipe EDROM da Universidade Federal de Uberlandia<br>
@@ -35,7 +35,7 @@
 
  
 
-<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="25px">&nbsp;***Linguagens e Ferramentas***
+<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="13px">&nbsp;***Linguagens e Ferramentas***
 <p align="left">
   
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
