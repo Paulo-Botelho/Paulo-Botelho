@@ -1,57 +1,44 @@
-
-<hr>
-<h1 align="center"> Olá, Eu sou o Paulo Botelho<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px"></h1>
-<h3 align="center">Estudante de Engenharia Mecatrônica</h3>
-<h4 align="center">mechatronics engineering's student</h4>
-<p align="center">
-<a href="https://www.instagram.com/paulo.bbotelho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aksia" height="30" width="40" /></a>
- <a href = "mailto: paulo.barbosa.botelho@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
-
-
-
+<h1 align="center">Olá, eu sou o Paulo Botelho 👋</h1>
+<h3 align="center">Engenheiro Mecatrônico | Consultor Júnior de Engenharia</h3>
 
 <p align="center">
-  <em>
-    Este sou eu, estudante de Engenharia Mecatrônica na Universidade Federal de Uberlandia no Brasil, técnico em suporte e manutenção de computadores e aspirante a programador,
-   sempre buscando melhorar,
-    <b>crescer</b> <img src="https://media1.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=ecf05e47lsybwyergazkq2hud26pu59sywa8dc91ui89wqpf&rid=giphy.gif&ct=s" height="25px"> 
-    <b>e se superar</b> <img src="https://media3.giphy.com/media/gjTX5cigW0MI9XoDdv/giphy.gif?cid=ecf05e47bmckjgq8tfzl7dyol86onsoi5xgzcf6pzqmnwbt9&rid=giphy.gif&ct=s" height="30px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media2.giphy.com/media/Kd5XdzdEhNqhYWe14S/giphy.gif?cid=ecf05e47slbv9u9uqh7effth54udgv4m7j3zbx3l8vvfcw5q&rid=giphy.gif&ct=s" width="30" /> <b><i>sempre buscanado forças para aprender mais</i></b> <img src="https://media0.giphy.com/media/4QZK21zlzVIyc/giphy.gif?cid=ecf05e476fl96nd8ic2yneyvn14kn0455rip1dr6jxcmrdaj&rid=giphy.gif&ct=s" width="30" />
-</p>
+  <a href="mailto:paulo.barbosa.botelho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/paulo.bbotelho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Paulo-Botelho&label=Profile%20views&color=green&style=flat" alt="Paulo-Botelho" /> </p>
-<img align="right" height="200px" alt="penguin" src="https://media4.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47j811vw165yzdxk3kuic6glczm59iesd1ibg7tnvi&rid=giphy.gif&ct=s" />
+---
 
-<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="13px">&nbsp;***Outras informações***
+### 👨‍💻 Sobre mim
 
-✔ Aspirante a programador <br>
-✔ Diretor da área de Visão da equipe EDROM da Universidade Federal de Uberlandia<br>
-✔ Iniciação Cientifica como programador no Laprosolda-UFU no projeto MADA<br>
+* 🎓 Formando em **Engenharia Mecatrônica** pela Universidade Federal de Uberlândia (UFU).
+* 💼 Atualmente atuando como **Consultor Júnior de Engenharia**.
+* 🤖 Tenho forte base em **Robótica, Sistemas de Controle (MPC, ZMP)** e **Visão Computacional**, com cerca de 4 anos de experiência aplicando IA em robótica e controle.
+* 🚀 Com uma década de contato com a programação, meu foco é transformar matemáticas complexas e modelos dinâmicos em soluções de software eficientes.
+* 💡 *Background:* Desenvolvi minha base prática em P&D atuando como Diretor da área de Visão na equipe EDROM e como pesquisador de Iniciação Científica no Laprosolda-UFU.
 
+---
 
+### 🛠️ Tecnologias e Ferramentas
 
- 
-
-<img src="https://media4.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=ecf05e47cg5u93yrnybeq7mtl3l6qkz7kxz18djt7oje801q&rid=giphy.gif&ct=s" height="13px">&nbsp;***Linguagens e Ferramentas***
 <p align="left">
-  
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> </code>
-  <code> <img height="50" src="https://cyberbotics.com/assets/images/webots.png" alt="Webots" name="Webots"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg.png"> </code>
-  
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
-  <hr>
-  <p align="center">
- <img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="16px" alt="GitHub-Status"/>&nbsp;<i><b>STATUS do github </b></i><img src="https://media3.giphy.com/media/l4pTbf0kTHnrBtr9u/giphy.gif?cid=ecf05e47va07df51ci0jvw17msf39jxxeimzf5su6d4kfy0l&rid=giphy.gif&ct=s" height="16px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Botelho&show_icons=true&locale=en&layout=compact" alt="Paulo-Botelho" /></p> 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo-Botelho&show_icons=true&locale=en" alt="Paulo-Botelho" width="410" /></p>
+### 📊 Estatísticas do GitHub
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Botelho&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Paulo" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Botelho&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paulo-Botelho&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=blue&style=flat" alt="Views" />
+</p>
