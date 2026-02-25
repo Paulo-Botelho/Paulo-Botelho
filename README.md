@@ -12,7 +12,7 @@
 
 * 🎓 Formando em **Engenharia Mecatrônica** pela Universidade Federal de Uberlândia (UFU).
 * 💼 Atualmente atuando como **Consultor Júnior de Engenharia**.
-* 🤖 Tenho forte base em **Robótica, Sistemas de Controle (MPC, ZMP)** e **Visão Computacional**, com cerca de 4 anos de experiência aplicando IA em robótica e controle.
+* 🤖 Tenho forte base em **Robótica, Sistemas de Controle** e **Visão Computacional**, com cerca de 4 anos de experiência em robótica e controle.
 * 🚀 Com uma década de contato com a programação, meu foco é transformar matemáticas complexas e modelos dinâmicos em soluções de software eficientes.
 * 💡 *Background:* Desenvolvi minha base prática em P&D atuando como Diretor da área de Visão na equipe EDROM e como pesquisador de Iniciação Científica no Laprosolda-UFU.
 
